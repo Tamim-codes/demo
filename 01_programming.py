@@ -61,4 +61,6 @@
 #     squary.left(91)
 
 
+print("hello word")
+print("How are you ?")
 
